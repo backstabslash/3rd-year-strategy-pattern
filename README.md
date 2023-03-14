@@ -1,2 +1,1 @@
-TECHINCAL TASK:
-Develop an application for which it would be advisable to use the "Strategy" pattern: the program works with the Car class, which in turn can be controlled manually / by autopilot / radio control, refuel with gasoline / electricity / change batteries, honk, making different sounds.
+TECHNICAL TASK: Design an application that leverages the "Strategy" pattern to manage the Car class. The application should allow for manual control, autopilot, or remote control of the car, as well as the ability to refuel using gasoline, electricity, or batteries. Additionally, the application should allow the car to honk and make different sounds, and provide different strategies for managing these functions.
